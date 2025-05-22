@@ -1,35 +1,31 @@
 [
   {
-    "id": "calm",
-    "title": "Calm",
-    "image": "../images/calm.png",
+    "id": "Brave",
+    "title": "Brave",
+    "image": "../images/brave-browser-icon.png",
     "featured": true,
     "tags": [
-      "breathing",
-      "sleep",
-      "meditation"
+      "Browser"
     ],
-    "description": "Offers guided meditations, sleep stories, and calming music to help users relax and improve sleep.",
-    "link": "https://minteddirectory.com"
+    "description": "Block ads. Save data. And get way faster webpages. Just by switching your browser.",
+    "link": "https://brave.com"
   },
   {
-    "id": "headspace",
-    "title": "Squirtle",
-    "image": "../images/007.png",
+    "id": "Bitwarden",
+    "title": "Bitwarden",
+    "image": "../images/blue-shield.png",
     "tags": [
-      "breathing",
-      "sleep",
-      "meditation"
+      "Password Manager"
     ],
-    "description": "Provides a variety of guided meditations, sleep content, and mindfulness exercises for daily use.",
-    "link": "https://minteddirectory.com"
+    "description": "Bitwarden is an open-source password manager that securely stores and syncs your passwords and sensitive data across devices.",
+    "link": "https://bitwarden.com"
   },
   {
-    "id": "insight-timer",
-    "title": "Insight Timer",
-    "image": "",
-    "description": "Features a vast library of guided meditations, talks, and music tracks from teachers worldwide.",
-    "link": "https://minteddirectory.com"
+    "id": "2FAS",
+    "title": "2FAS",
+    "image": "../images/2fas_shield_dark.jpg",
+    "description": "The Internets favorite open-source two-factor authenticator",
+    "link": "https://2FAS.com"
   },
   {
     "id": "buddhify",
