@@ -24,51 +24,61 @@
     "id": "2FAS",
     "title": "2FAS",
     "image": "../images/2fas_shield_dark.jpg",
+    "tags": [
+      "2FA"
+    ],
     "description": "The Internets favorite open-source two-factor authenticator",
     "link": "https://2FAS.com"
   },
   {
-    "id": "buddhify",
-    "title": "Buddhify",
-    "image": "",
-    "description": "Customizable meditation sessions for various situations, with a one-time payment model.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "smiling-mind",
-    "title": "Smiling Mind",
-    "image": "",
-    "description": "A non-profit app designed by psychologists, offering mindfulness programs for different age groups and settings.",
-    "link": "https://minteddirectory.com"
-  },
-  {
-    "id": "meditopia",
-    "title": "Meditopia",
+    "id": "NextDNS",
+    "title": "NextDNS",
+    "image": "../images/NextDNS.png",
     "tags": [
-      "breathing",
-      "meditation"
+      "DNS"
     ],
-    "image": "",
-    "description": "Focuses on sleep and stress reduction with guided meditations in multiple languages.",
-    "link": "https://minteddirectory.com"
+    "description": "NextDNS is a privacy-focused DNS service that blocks ads, trackers, and malicious domains while giving users detailed analytics and custom filtering options.",
+    "link": "https://nextdns.io"
   },
   {
-    "id": "happier",
-    "title": "10% Happier",
+    "id": "Signal",
+    "title": "Signal",
+    "image": "../images/Signal.png",
     "tags": [
-      "yoga",
-      "meditation"
+      "Encrypted Messenger"
     ],
-    "image": "",
-    "description": "Teaches meditation through videos, guided sessions, and a personal coaching feature.",
-    "link": "https://minteddirectory.com"
+    "description": "Signal is a secure messaging app that uses end-to-end encryption to protect texts, calls, and media, ensuring only you and your intended recipient can read or hear them.",
+    "link": "https://signal.org"
   },
   {
-    "id": "simple-habit",
-    "title": "Simple Habit",
-    "image": "",
+    "id": "Proton Mail",
+    "title": "Proton Mail",
+    "tags": [
+      "Encrypted Email"
+    ],
+    "image": "../images/ProtonMail.png",
+    "description": "Proton Mail is an encrypted email service that prioritizes privacy by ensuring only you and your recipients can read your messages, with no access for the provider.",
+    "link": "https://proton.me/mail"
+  },
+  {
+    "id": "EasyOptOuts",
+    "title": "EasyOptOuts",
+    "tags": [
+      "Data Removal"
+    ],
+    "image": "../images/EOO.png",
+    "description": "EasyOptOuts is a service that helps users quickly find and access opt-out pages for major data brokers and marketing lists to remove their personal information from online databases.",
+    "link": "https://easyoptouts.com"
+  },
+  {
+    "id": "Proton VPN",
+    "title": "Proton VPN",
+    "tags": [
+      "VPN"
+    ],
+    "image": "../images/ProtonVPN.png",
     "description": "Offers short, 5-minute meditations for busy individuals, with sessions led by mindfulness experts.",
-    "link": "https://minteddirectory.com"
+    "link": "https://proton.me/vpn"
   },
   {
     "id": "aura",

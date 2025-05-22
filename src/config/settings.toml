@@ -10,7 +10,7 @@ iconLogo = "tabler:coffee"
 [general.seo]
 name = "TheShieldIT"
 description = "Find the best security and privacy tools for your needs"
-url = "https://thesheildit.com"
+url = "https://theshieldit.com"
 
 [directoryData.source]
 name = "json"    # default, mock, sheets, json
@@ -23,14 +23,14 @@ title = "{0} Apps"
 placeholder = "Search among {0} listings of this directory :)"
 
 [[directoryData.tags]]
-key = "browser"
+key = "Browser"
 name = "Browser"
 color = "orange"
 emoji = "🛜"
 description = "List of the best browsers across all platforms"
 
 [[directoryData.tags]]
-key = "password manager"
+key = "Password Manager"
 name = "Password Manager"
 color = "green"
 emoji = "🔑"
@@ -44,11 +44,11 @@ emoji = "🔒"
 description = "2FA (Two-Factor Authentication) is a security method that requires two forms of verification—typically a password and a secondary code—to access an account."
 
 [[directoryData.tags]]
-key = "Encrypted Mail"
-name = "Encrypted Mail"
+key = "VPN"
+name = "VPN"
 color = "red"
-emoji = "✉️"
-description = "Encrypted email to protect your everyday"
+emoji = "🚫"
+description = "A VPN (Virtual Private Network) is a tool that encrypts your internet connection and routes it through a remote server, hiding your IP address and protecting your online activity from tracking, surveillance, and censorship."
 
 [[directoryData.tags]]
 key = "DNS"
@@ -57,8 +57,29 @@ color = "green"
 emoji = "☁️"
 description = "DNS (Domain Name System) is the internet’s address book, translating human-readable domain names like example.com into IP addresses that computers use to communicate."
 
+[[directoryData.tags]]
+key = "Encrypted Messenger"
+name = "Encrypted Messenger"
+color = "yellow"
+emoji = "💬"
+description = "An encrypted messenger is a messaging app that uses encryption—typically end-to-end encryption—to protect messages so that only the sender and recipient can read them, preventing access by hackers, service providers, or governments."
+
+[[directoryData.tags]]
+key = "Encrypted Email"
+name = "Encrypted Email"
+color = "brown"
+emoji = "🔐"
+description = "Encrypted email is email that uses encryption to protect the contents of messages, ensuring that only the sender and intended recipient can read them, even if the messages are intercepted or accessed by the email provider."
+
+[[directoryData.tags]]
+key = "Data Removal"
+name = "Data Removal"
+color = "brown"
+emoji = "❌"
+description = "Data removal services are companies or tools that help identify and request the deletion of your personal information from data brokers, people-search sites, and other online databases to protect your privacy."
+
 [header.banner]
-show = true
+show = false
 text = "Join Us On Discord"
 link = "https://discord.gg/3wEDKtCyNR"
 brandText = ""
